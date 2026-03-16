@@ -115,7 +115,11 @@ s.close()
 
 ### Download:
 
+![alt text](<Screenshot 2026-03-16 122444.png>)
+
 ### Upload:
+
+![alt text](<Screenshot 2026-03-16 122611.png>)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
